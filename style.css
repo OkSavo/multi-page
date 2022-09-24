@@ -1,11 +1,10 @@
 body {
   background: #f8e8a6;
-}
-h1,
-p {
   text-align: center;
 }
+
 img {
   width: 400px;
   border-radius: 4px;
+  display: block;
 }
